@@ -1,1 +1,1 @@
-Readme for pointer array
+My new readme for pointers
