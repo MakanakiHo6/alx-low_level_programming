@@ -1,1 +1,1 @@
-Strings
+Readme for static library
