@@ -4,19 +4,11 @@ def island_perimeter(grid):
     """
 
     Calculate the perimeter of the island described in the given grid.
-
-    
-
     Args:
-
     grid: a list of lists of integers representing the grid, where 0 represents a water cell
 
           and 1 represents a land cell.
-
-    
-
     Returns:
-
     The perimeter of the island, an integer.
 
     """
@@ -40,4 +32,3 @@ def island_perimeter(grid):
                     perimeter -= 2
 
     return perimeter
-
